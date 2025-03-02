@@ -1,4 +1,4 @@
-   // union money m1;
-    // m1.rice = 34;
-    // cout<<m1.rice;
+ // int a = 3 , b = 4;
+    // int c = ((((a*5)+b)-45)+87);
+    // cout<<c;
     

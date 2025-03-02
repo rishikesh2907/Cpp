@@ -11,7 +11,7 @@ int main(){
     // cin>>b;
     // c = a + b;
     // cout<<"The sum is "<<c<<endl;
-    // cout<<"The global c is "<<::c; 
+    // cout<<"The global c is "<<::c<<endl; 
 
     // Float , Double and Long Double
     // float d = 34.4357443636346346f;

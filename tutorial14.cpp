@@ -10,7 +10,7 @@ using namespace std;
 //     float salary;
 // };
 
-typedef struct employee
+typedef struct employee // In c++ you can remove typedef also , code will work anyway
 {
     /* data */
     int eId;      // 4
